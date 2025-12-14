@@ -1,7 +1,6 @@
 <h2 align="center">Hello there! My name is Shubham. 👋</h2>
 <p align='center'>
 <a href="https://www.linkedin.com/in/shubham-jain2310/">:link:LinkedIn</a>&nbsp;&nbsp;
- <a href="instagram.com/shubham_jain2310/">:link:Instagram</a>&nbsp;&nbsp;
 </p>
 <div align='center'>
  
